@@ -1,0 +1,284 @@
+Uri: https://code.jquery.com/jquery-3.0.0.min.js
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\jquery-3.0.0.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-migrate-3.0.0.min.js
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\jquery-migrate-3.0.0.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,600,700,800,900
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\s\poppins\v20\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/css/animate.min.css
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\css\animate.min.css
+Content Type: text/css
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/css/et-line.css
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\css\et-line.css
+Content Type: text/css
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/css/main.css
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\css\main.css
+Content Type: text/css
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/css/owl.theme.default.min.css
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\css\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/css/style.css
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\css\style.css
+Content Type: text/css
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/fonts/et-line.eot
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\fonts\et-line.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/fonts/et-line.eot?
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\fonts\et-line-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/fonts/et-line.ttf
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\fonts\et-line.ttf
+Content Type: application/octet-stream
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/fonts/et-line.woff
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\fonts\et-line.woff
+Content Type: application/font-woff
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\fonts\fontawesome-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/img/bg.jpg
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\img\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/img/blog/1.jpg
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\img\blog\1.jpg
+Content Type: image/jpeg
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/img/blog/2.jpg
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\img\blog\2.jpg
+Content Type: image/jpeg
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/img/blog/3.jpg
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\img\blog\3.jpg
+Content Type: image/jpeg
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/img/blog/4.jpg
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\img\blog\4.jpg
+Content Type: image/jpeg
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/img/clients/1.jpg
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\img\clients\1.jpg
+Content Type: image/jpeg
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/img/dots.png
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\img\dots.png
+Content Type: image/png
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/img/favicon.ico
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/img/hero.jpg
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\img\hero.jpg
+Content Type: image/jpeg
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/img/portfolio/1.jpg
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\img\portfolio\1.jpg
+Content Type: image/jpeg
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/img/portfolio/2.jpg
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\img\portfolio\2.jpg
+Content Type: image/jpeg
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/img/portfolio/3.jpg
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\img\portfolio\3.jpg
+Content Type: image/jpeg
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/img/portfolio/4.jpg
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\img\portfolio\4.jpg
+Content Type: image/jpeg
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/img/portfolio/5.jpg
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\img\portfolio\5.jpg
+Content Type: image/jpeg
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/img/portfolio/6.jpg
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\img\portfolio\6.jpg
+Content Type: image/jpeg
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/js/animated.headline.js
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\js\animated.headline.js
+Content Type: application/javascript
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/js/app.js
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\js\app.js
+Content Type: application/javascript
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/js/custom.js
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\js\custom.js
+Content Type: application/javascript
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/js/html5shiv.min.js
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\js\html5shiv.min.js
+Content Type: application/javascript
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/js/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/js/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\js\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/js/jquery.stellar.min.js
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\js\jquery.stellar.min.js
+Content Type: application/javascript
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/js/jquery.waypoints.min.js
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\js\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/js/particles.min.js
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\js\particles.min.js
+Content Type: application/javascript
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/js/scrollIt.min.js
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\js\scrollIt.min.js
+Content Type: application/javascript
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/js/validator.js
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\js\validator.js
+Content Type: application/javascript
+
+Uri: https://ui-themez.smartinnovates.net/items/daniels/particles.html
+File Name: C:\Downloaded Web Sites\ui-themez.smartinnovates.net\items\daniels\particles.html
+Content Type: text/html
+
